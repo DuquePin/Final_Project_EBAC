@@ -41,5 +41,9 @@ O projeto foi organizado em quatro notebooks do Jupyter, cada um abordando uma e
 Além dos notebooks, foi desenvolvida uma aplicação web em Streamlit, que permite visualizar os resultados da modelagem 
 utilizando os modelos previamente treinados. Abaixo, segue um vídeo demonstrativo da aplicação. 
 
+[Aplicação Streamlit](https://final-project-ebac.onrender.com)
+
+
+
 Por fim, todos os scripts foram adaptados para uso local e estão disponíveis na pasta do projeto, juntamente com os 
 arquivos de requisitos necessários para a execução.
