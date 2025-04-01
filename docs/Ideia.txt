@@ -1,1 +1,0 @@
-Criar um modelo preditivo para falha acadêmcio de alunos com base na base de dados do Kaggle
