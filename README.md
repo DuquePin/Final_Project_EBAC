@@ -43,6 +43,12 @@ utilizando os modelos previamente treinados. Abaixo, segue um vídeo demonstrati
 
 [Aplicação Streamlit](https://final-project-ebac.onrender.com)
 
+### Video de Demonstração
+
+
+
+https://github.com/user-attachments/assets/d6b495cd-213b-4b1f-a0a2-8166737532a3
+
 
 
 Por fim, todos os scripts foram adaptados para uso local e estão disponíveis na pasta do projeto, juntamente com os 
